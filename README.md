@@ -50,7 +50,7 @@ Endpoint: /hi
 Method: GET
    ```
 
-### Description: API for checking connection. Returns "Hello!".
+### Description: API for checking connection returns "Hello!".
 
 Place Order
 
